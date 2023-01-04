@@ -28,12 +28,26 @@ body {
     padding: 10px 0;
 }
 
-img {
+#mainpic{
+    display: flex;
+    margin: 0 auto;
+    width: 600px;
+}
+
+img.newpics {
+    display: flex;
+    margin: 0 auto;
+    width: 400px;
+}
+
+#introvideo {
     display: flex;
     margin: 0 auto;
 }
 
-#introvideo {
+#gallerybutton {
+    size:500px;
+    font-size: 50px;
     display: flex;
     margin: 0 auto;
 }

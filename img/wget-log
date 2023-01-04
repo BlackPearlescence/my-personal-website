@@ -16,4 +16,34 @@ Retrying.
 
 --2023-01-04 05:41:22--  (try: 4)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
 Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-01-04 05:56:26--  (try: 5)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
+Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-01-04 06:11:31--  (try: 6)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
+Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-01-04 06:26:38--  (try: 7)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
+Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-01-04 06:41:45--  (try: 8)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
+Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-01-04 06:56:53--  (try: 9)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
+Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-01-04 07:12:03--  (try:10)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
+Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
 HTTP request sent, awaiting response... 

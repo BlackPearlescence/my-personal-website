@@ -5,17 +5,20 @@
         <title>My Personal Website</title>
     </head>
     <body>
-        <div id = "maintitle">
-            <h1>Koi Wonderland</h1>
-            <h2>Information on Koi Fish and Koi Ponds</h2>
+        <script type="text/javascript" src="buttonhandler.js"></script>
+        <div id="mainstuff">
+            <div id = "maintitle">
+                <h1>Koi Wonderland</h1>
+                <h2>Information on Koi Fish and Koi Ponds</h2>
+            </div>
+            <div class="topnav">
+                <a class="active" href="index.html">Home</a>
+                <a href="aboutus.html">About Us</a>
+                <a href="koifish.html">Koi Fish</a>
+                <a href="koiponds.html">Koi Ponds</a>
+            </div>
         </div>
-        <div class="topnav">
-            <a class="active" href="index.html">Home</a>
-            <a href="aboutus.html">About Us</a>
-            <a href="koifish.html">Koi Fish</a>
-            <a href="koiponds.html">Koi Ponds</a>
-        </div>
-        <img src="./img/koipeek.jpg" alt="a pretty koi peeking out of water">
+        <img id="mainpic" src="./img/koipeek.jpg" alt="a pretty koi peeking out of water">
         <p id = "maintext">
             If you need to know anything about Koi Fish and Koi Ponds then you've come to the right place!
         </p>
@@ -26,12 +29,15 @@
             exist to <strong>educate</strong> you about Koi fish. Rather, this website exists to express
             our love and passion for Koi fish! Think of this as a sort of <strong>Koi Fish Fan Club</strong>!
         </p>
-        <script src="script.js"></script>
+        
         <iframe id="introvideo"
         width="560" height="315" src="https://www.youtube.com/embed/CdIxzSqoeXY" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen></iframe>
+        <br>
+        <input id = "gallerybutton" type="button" value="Show Me Pictures!"/>
+        <script type="text/javascript" src="buttonhandler.js"></script>
     </body>
 </html>
