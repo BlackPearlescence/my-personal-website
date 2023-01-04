@@ -1,9 +1,21 @@
 body {
     background: peachpuff;
+    font: normal small-caps normal 16px/1.4 "Serif";
 }
 
 #maintitle {
     text-align: center;
+}
+
+#maintext {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#koimainp {
+    text-align: center;
+    font-size: 20px;
 }
 
 .topnav {
@@ -14,4 +26,14 @@ body {
     margin: 0 auto;
     background: skyblue;
     padding: 10px 0;
+}
+
+img {
+    display: flex;
+    margin: 0 auto;
+}
+
+#introvideo {
+    display: flex;
+    margin: 0 auto;
 }

@@ -1,4 +1,19 @@
 --2023-01-04 04:56:15--  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
 Resolving image.petmd.com (image.petmd.com)... 23.49.248.31, 23.49.248.30, 2600:141b:e800:30::172f:9094, ...
 Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-01-04 05:11:16--  (try: 2)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
+Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-01-04 05:26:19--  (try: 3)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
+Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-01-04 05:41:22--  (try: 4)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
+Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
 HTTP request sent, awaiting response... 
