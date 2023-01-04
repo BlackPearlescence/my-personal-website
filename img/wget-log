@@ -46,4 +46,9 @@ Retrying.
 
 --2023-01-04 07:12:03--  (try:10)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
 Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-01-04 07:27:13--  (try:11)  https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg?w=1080
+Connecting to image.petmd.com (image.petmd.com)|23.49.248.31|:443... connected.
 HTTP request sent, awaiting response... 
