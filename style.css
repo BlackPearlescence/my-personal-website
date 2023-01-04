@@ -1,3 +1,17 @@
 body {
-    background: blue;
+    background: peachpuff;
+}
+
+#maintitle {
+    text-align: center;
+}
+
+.topnav {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    max-width: 400px;
+    margin: 0 auto;
+    background: skyblue;
+    padding: 10px 0;
 }
